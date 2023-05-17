@@ -9,7 +9,7 @@
 
 ## Current Project 	:hammer_and_wrench:
 
-I developed a multi-user Letterboxd/IMDB clone using an API from [The Movie DB API](https://developers.themoviedb.org/) that allows users to track, review and list movies, called [FilmLabs](https://movielabs.onrender.com)
+I developed a eCommerce site to sell sailing accessories called [CDI Furlers](https://cdifurlers.com/) that allows users to add, remove, edit their carts, make purchases as well as search based on their boat model and make to find the correct accessory for their sail.  
 
 ## Languages and Libaries :books:
 
