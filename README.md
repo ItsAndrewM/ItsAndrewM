@@ -16,12 +16,14 @@ I developed a eCommerce site to sell sailing accessories called [CDI Furlers](ht
 * JavaScript
 * CSS
 * HTML
-* NodeJS
+* Node.js
 * Java
 * Python
 * C++
 * React
 * JQuery
+* MySQL
+* PHP
 
 ## Contact 📫
 
