@@ -9,7 +9,11 @@
 
 ## Current Project 	:hammer_and_wrench:
 
-I developed a eCommerce site to sell sailing accessories called [CDI Furlers](https://cdifurlers.com/) that allows users to add, remove, edit their carts, make purchases as well as search based on their boat model and make to find the correct accessory for their sail.  
+I developed an eCommerce site called [CDI Furlers](https://cdifurlers.com/) that sells sailing accessories. Users can add, remove, and edit their carts, make purchases, and search for the correct accessory based on their boat model and make.
+
+I also developed an eCommerce site called [Inflatable Boat World](https://inflatableboatworld.com/) that sells dinghies and accessories of all makes and models. Users can add, remove, and edit their carts, make purchases, and search for their desired products.
+
+I've also been working on a NextJs App called [Slam Dunk Movies](https://www.slamdunkmovies.com/) which is a movie, comic book and TV news site posting articles written by Microsoft's Bing Chat.  While Bing Chat doesn't have a publicly accessible API, prompts are made manually and the articles (and any images) are added to the directory.  Ideally, I'd like to automate this processess when an API becomes available and then utilize a database to store that data.
 
 ## Languages and Libaries :books:
 
