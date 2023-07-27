@@ -6,6 +6,7 @@
 
 * Diploma in Full-Stack Web Development from Concordia University | 2022
 * Computer Science at University of Victoria | 2021-2022
+* Bachelor of Sport and Fitness Leadership at Camosun College | 2013-2017
 
 ## Current Project 	:hammer_and_wrench:
 
