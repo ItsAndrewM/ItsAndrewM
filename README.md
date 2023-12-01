@@ -1,6 +1,6 @@
 # Andrew McMillan
 
-👋 Hello! I'm a full-stack web developer from Victoria, BC!
+👋 Hello! I'm a full-stack web developer from Kelowna, BC!
 
 ## Work Experience :office:
 
