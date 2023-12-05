@@ -48,5 +48,5 @@ I developed a headless ecommerce site using Swell.is, Builder.io and NextJs call
 ## Contact 📫
 
 * [mcmillan.r.andrew@gmail.com](mailto:mcmillan.r.andrew@gmail.com)
-* [Linkedin](linkedin.com/in/andrewrmcmillan/)
+* [Linkedin](https://linkedin.com/in/andrewrmcmillan/)
 * [Portfolio](https://andrewrmcmillan.com)
