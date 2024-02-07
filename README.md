@@ -44,9 +44,12 @@ I developed a headless ecommerce site using Swell.is, Builder.io and NextJs call
 * [Wordpress](https://www.precisionsailloft.com)
 * PHP
 * C++
+* Tailwind CSS
+* T-SQL
+* Express.js
 
 ## Contact 📫
 
-* [mcmillan.r.andrew@gmail.com](mailto:mcmillan.r.andrew@gmail.com)
+* [andrew@andrewrmcmillan.com](mailto:andrew@andrewrmcmillan.com)
 * [Linkedin](https://linkedin.com/in/andrewrmcmillan/)
 * [Portfolio](https://andrewrmcmillan.com)
