@@ -4,7 +4,7 @@
 
 ## Work Experience :office:
 
-* Software Developer | Precision Sail Loft Ltd. | January 2023 - Present
+* Software Developer | Precision Sail Loft Ltd. | January 2023 - February 2024
 
 ## Education :school:
 
