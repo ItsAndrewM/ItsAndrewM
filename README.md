@@ -3,8 +3,10 @@
 👋 Hello! I'm a full-stack web developer from Kelowna, BC!
 
 ## Work Experience :office:
-
-* Software Developer | Precision Sail Loft Ltd. | January 2023 - February 2024
+* Software Engineer | McMillan Farms | September 2020 - Present
+* Software Developer | Precision Sail Loft Ltd. | January 2023 - Present
+* Software Engineer | CDI Furlers | January 2023 - January 2024
+* Software Developer | Inflatable Boat World | January 2023 - January 2024
 
 ## Education :school:
 
@@ -13,7 +15,7 @@
 * Bachelor of Sport and Fitness Leadership at Camosun College | 2013-2017
 * Diploma in Sport Management at Camosun College | 2013-2015
 
-## Current Project 	:hammer_and_wrench:
+## Current Project 	🛠️
 
 I'm always maintaining and developing [Precision Sail Loft](https://www.precisionsailloft.com/), an eccommerce site focused on sailing accessories as well as sail quoting and education.
 
@@ -30,23 +32,40 @@ I developed a headless ecommerce site using Swell.is, Builder.io and NextJs call
 ## Languages and Libaries :books:
 
 
-* HTML/CSS
+* HTML
+* CSS
 * JavaScript
-* [React](https://cdifurlers.com/)
-* [Next.js](https://mcmillanfarms.ca)
-* Node.js
 * Java
 * Python
-* JQuery
-* MySQL
-* NoSQL (MongoDB)
-* GraphQL
-* [Wordpress](https://www.precisionsailloft.com)
 * PHP
 * C++
 * Tailwind CSS
-* T-SQL
+
+## Frameworks and Databases :computer:
+
+
+* React
+* Next.js
+* NodeJS
 * Express.js
+* MySQL
+* PostgreSQL
+* SQLite
+* MariaDB
+* MongoDB
+* GraphQL
+
+## Tools :toolbox:
+
+* Git
+* GitHub
+* Postman
+* Insomnia
+* AWS (S3, SQS, Lambda, DynamoDB)
+* Google Cloud GCP (Cloud Run, Cloud Functions)
+* Google Analytics
+* GraphQL
+* Microsoft Azure
 
 ## Contact 📫
 
