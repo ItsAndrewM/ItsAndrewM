@@ -35,6 +35,7 @@ I developed a headless ecommerce site using Swell.is, Builder.io and NextJs call
 * HTML
 * CSS
 * JavaScript
+* TypeScript
 * Java
 * Python
 * PHP
