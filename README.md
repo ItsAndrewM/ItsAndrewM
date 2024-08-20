@@ -3,11 +3,11 @@
 👋 Hello! I'm a Software Engineer from Kelowna, BC!
 
 ## Work Experience :office:
+* Associate Software Engineer III | GameSheet Inc. | August 2024 - Present
 * Software Engineer | McMillan Farms | September 2020 - Present
 * Software Developer | Precision Sail Loft Ltd. | January 2023 - August 2024
 * Software Engineer | CDI Furlers | January 2023 - January 2024
 * Software Developer | Inflatable Boat World | January 2023 - January 2024
-* Associate Software Engineer III | GameSheet Inc. | August 2024 - Present
 
 ## Education :school:
 
